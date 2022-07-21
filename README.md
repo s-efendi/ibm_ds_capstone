@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate Capstone Project
+# IBM Data Science Professional Certificate Applied Capstone Project
 
 This is a part of the IBM Data Science Professional Certificate: https://www.coursera.org/professional-certificates/ibm-data-science
 
